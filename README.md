@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/de38bfa2-8065-48ce-b932-1c9c7ffc7ab9
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/maliknomi0/image_to_pdf.git
+   git clone [https://github.com/maliknomi0/image_to_pdf.git](https://github.com/maliknomi0/image_to_pdf.git)
    cd image_to_pdf
 
 ## Contact
